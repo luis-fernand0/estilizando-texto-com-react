@@ -1,0 +1,23 @@
+.paragrafo {
+    background-color: #fff;
+
+    width: 500px;
+    height: auto;
+
+    border-radius: 10px;
+
+    padding: 10px;
+
+    text-transform: uppercase;
+    line-height: 25px;
+
+    box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.493);
+}
+
+.paragrafo .text {
+    color: black;
+    text-align: left;
+    font-size: 18px;
+
+    margin: 0;
+}
