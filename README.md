@@ -1,8 +1,4 @@
-# React + Vite
+# Estilizando Textos com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Sobre:
+- Esse projeto foi um desafio que foi proposto pelo curso de Desenvolvimento FullStack dos Gêmeos do Dev em Dobro, DevQuester. Com base com oque foi ensinado nas aulas de desenvolvimento em React completei esse desafio, o desafio consitia em alterar a cor do paragrafo quando escolher um determinada cor, completei essa parte e adicionei umas coisas a mais, como: poder alterar a fonte do texto para capitalize, maiusculas e minusculas. 
